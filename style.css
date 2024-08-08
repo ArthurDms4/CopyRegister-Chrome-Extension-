@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    width: 400px;
+}
+
+.copied-text{
+    font-weight: 600;
+}
